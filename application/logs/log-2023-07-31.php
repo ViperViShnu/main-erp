@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-07-31 21:45:35 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 21:45:46 --> 404 Page Not Found: admin/Invoice/building-o.png
+ERROR - 2023-07-31 21:47:02 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 21:47:23 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 21:47:44 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 21:48:09 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 21:50:27 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 21:50:50 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 21:51:06 --> 404 Page Not Found: admin/Building-opng/index
+ERROR - 2023-07-31 21:56:04 --> 404 Page Not Found: admin/Building-opng/index
+ERROR - 2023-07-31 21:56:09 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 21:56:11 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 21:56:14 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 21:56:56 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 21:57:02 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 21:57:50 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 21:58:02 --> 404 Page Not Found: admin/Building-opng/index
+ERROR - 2023-07-31 22:01:42 --> 404 Page Not Found: admin/Building-opng/index
+ERROR - 2023-07-31 22:18:41 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 22:18:45 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 22:18:45 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 22:18:47 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 22:18:47 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 22:18:50 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 22:18:50 --> 404 Page Not Found: admin/Accounting/building-o.png
+ERROR - 2023-07-31 22:19:13 --> 404 Page Not Found: admin/Settings/building-o.png
+ERROR - 2023-07-31 22:19:13 --> 404 Page Not Found: admin/Settings/building-o.png
