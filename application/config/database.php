@@ -85,7 +85,11 @@ $db['default'] = array(
     // 'database' => 'u364198869_erp_new', // localhost
     // 'database' => 'u364198869_erp_pro', // localhost Package - Pro
     // 'database' => 'u364198869_erp_basic1', // localhost Package - Basic 1
+<<<<<<< HEAD
     'database' => 'u364198869_erp_basic2-client-2', // localhost Package - Basic 2
+=======
+    'database' => 'u364198869_erp_basic2-client-1', // localhost Package - Basic 2
+>>>>>>> 04e7fef3c390e739987d3eadbfbdb23678c32f8d
     // 'database' => 'u364198869_testErp_basic2', // corpindex/demo/demo/test_erp_basic2
     // 'database' => 'u364198869_client_sst', // corpindex.cloud/demo/client/sudhan_tractors
     'dbdriver' => 'mysqli',

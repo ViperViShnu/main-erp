@@ -1,0 +1,24 @@
+# Ignore system cache and logs
+application/cache/
+application/logs/
+
+# Ignore writable session data
+application/sessions/
+
+# Ignore uploads (if not versioned)
+uploads/
+
+# Ignore configuration files (if needed)
+application/config/database.php
+application/config/config.php
+
+# Ignore Composer dependencies (if used)
+vendor/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor specific files
+.idea/
+.vscode/
